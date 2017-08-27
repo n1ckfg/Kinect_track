@@ -1,0 +1,5 @@
+Diff Threshold
+25
+
+Blob Threshold
+0.3

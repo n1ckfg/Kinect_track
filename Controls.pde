@@ -1,0 +1,4 @@
+void keyPressed(){
+  initOpenCV();
+  doDiff();
+}
